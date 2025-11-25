@@ -11,7 +11,7 @@
 
  Динамика цен и объёмы
 
-![Detailed Analysis](screenshots/detailed.png)
+![Detailed Analysis](gif_gold.gif)
 
 **Анализ ценовых диапазонов:**
 
